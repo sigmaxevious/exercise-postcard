@@ -4,7 +4,7 @@
 
 A quién no le gustan las postales? Este es uno de mis primeros ejercicios, y es muy divertido :)
 
-Vamos a crear una postal con HTML5 y CSS3, y luego podrás compartirla con tu mamá o tu otra mitad; ¡estarán orgullosos! :)
+Vamos a crear una postal con HTML5 y CSS3, y luego podrás compartirla con tus seres queridos; ¡estarán orgullosos! :)
 
 ## 🌱 ¿Cómo empezar?
 
