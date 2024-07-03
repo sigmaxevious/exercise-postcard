@@ -1,26 +1,25 @@
 <!-- hide -->
-# The Postcard
+# La postal
 <!-- endhide -->
 
-Who doesn't like postcards? This is one of your first exercises (if not the first), and it's fun and relatively easy :)
+A quién no le gustan las postales? Este es uno de mis primeros ejercicios, y es muy divertido :)
 
-Let's create a postcard with HTML5 and CSS3, and then you can share it with your mom or your other half; they will be proud! :)
+Vamos a crear una postal con HTML5 y CSS3, y luego podrás compartirla con tu mamá o tu otra mitad; ¡estarán orgullosos! :)
 
-## 🌱  How to start this project?
+## 🌱 ¿Cómo empezar?
 
-1. Make sure you have a Github account at:  https://github.com
-2. We recommend opening this repository using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it on your local computer using the `git clone` command. 
+1. Asegúrate de tener una cuenta de github:  https://github.com
+2. 2. Recomendamos abrir este repositorio utilizando una herramienta de aprovisionamiento como Codespaces (recomendado) o Gitpod. Alternativamente, puedes clonarlo en tu computadora local utilizando el comando git clone.
 
-This is the repository you need to open or clone:
+Este es el repositorio que necesitas abrir o clonar:
 
 ```text
 https://github.com/breatheco-de/exercise-postcard
 ```
 
-**👉 Please follow these steps on** [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project). IMPORTANT --> this repo isn't a template. 
+**👉  Por favor, sigue estos pasos sobre cómo empezar un proyecto de codificación. IMPORTANTE --> este repositorio no es una plantilla.
 
-
-3. The exercises will start and show the instructions automatically, but if you encounter any issues, you can try running them manually by typing in your command line the following:
+Los ejercicios comenzarán y mostrarán las instrucciones automáticamente, pero si encuentras algún problema, puedes intentar ejecutarlos manualmente escribiendo en tu línea de comandos lo siguiente:
 
 ```bash
 $ learnpack start
@@ -28,41 +27,44 @@ $ learnpack start
 
 ## Instructions
 
-Create the HTML and CSS3 needed to replicate [this exact same picture](https://raw.githubusercontent.com/breatheco-de/exercise-postcard/main/.learn/assets/preview.png).
+Instrucciones
+Crea el HTML y CSS3 necesarios para replicar esta misma imagen exacta.(https://raw.githubusercontent.com/breatheco-de/exercise-postcard/main/.learn/assets/preview.png).
 
 ![postcard preview](https://raw.githubusercontent.com/breatheco-de/exercise-postcard/main/.learn/assets/preview.png)
 
-> ✋ Here is the url for the 4Geeks logo: [https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/4geeks.png?raw=true](https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/4geeks.png?raw=true)
+> ✋  Aquí está la URL para el logo de 4Geeks: [https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/4geeks.png?raw=true](https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/4geeks.png?raw=true)
 
-## Create by drawing your strategy
+## Crea tu estrategia dibujando
 
 ![Postcard Strategy](https://github.com/breatheco-de/exercise-postcard/raw/main/.learn/assets/strategy.gif?raw=true)
 
-## You can add different fonts by using free [Google Fonts](https://fonts.google.com/)
+## Puedes agregar diferentes fuentes usando [Google Fonts](https://fonts.google.com/)
 
-1. Click on the font you like.
+1. Haz clic en la fuente que te guste.
 
-2. Click get font.
+2. Haz clic en "get font".
 
-3. Click on Embed code.
+3. Haz clic en "Embed code".
 
-4. Add the link tags to your html file.
+4. Agrega las etiquetas de enlace a tu archivo HTML.
 
 
-## What to do if you are stuck?
+## ¿Qué hacer si te quedas atascado?
 
-There is a video about this exercise, watch it if you are lost. But don't copy everything, try to code some of your own.
+Hay un video sobre este ejercicio, míralo si estás perdido. Pero no copies todo, intenta programar algo por tu cuenta.
 
-## Fundamentals
-This exercise covers the following fundamentals:
-1. Basic structure for every HTML5 website.  
-2. The *Link* tag to import CSS3 Rules.  
-3. Using google fonts.  
-3. Using the different selectors available in CSS3.  
-4. Working with containers or boxes: border, padding, and margins.  
-5. Overflow.  
-6. Using a simple form.  
+## Fundamentos
+Este ejercicio cubre los siguientes fundamentos:
 
-This and many other exercises are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sánchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and  [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
+1. Estructura básica para cualquier sitio web HTML5.
+2. La etiqueta Link para importar reglas CSS3.
+3. Uso de Google Fonts.
+4. Uso de los diferentes selectores disponibles en CSS3.
+5. Trabajo con contenedores o cajas: borde, relleno y márgenes.
+6. Overflow.
+7. Uso de un formulario simple.
+
+Este y muchos otros ejercicios son creados por estudiantes como parte del Bootcamp de 4Geeks Academy Coding Bootcamp por Alejandro Sánchez y muchos otros colaboradores. Descubre más sobre nuestro Curso de Desarrollador Full Stack y Bootcamp de Ciencia de Datos."
+
 
 
